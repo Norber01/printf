@@ -110,4 +110,4 @@ These are all the tasks of this project, the ones that are completed link to the
 
 ### Authors
 * **DOVI NORBERT** - [dovinorbert@gmail.com](https://github.com/norber01)
-* **GODSWILL KALU** - [messagelordwill@gmail.com](https://github.com/Lordwill1)
+* **FRANK TETTEH** - [franckkwami11@gmail.com](https://github.com/Kwami11)
